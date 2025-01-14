@@ -2,7 +2,7 @@
 
 ![My-pic](./img/mee.jpeg)
 
-## About Me
+## About Me:
 
 I am Harley and a passionate and dedicated Frontend Developer with 1 years of
 experience in creating visually appealing and user-friendly web applications. My
@@ -11,23 +11,29 @@ frameworks like React, Angular, and Vue.js.I have a strong foundation in
 Information Technology, holding a degree in IT and certifications in CCNA
 Networking and Linux.
 
-### Current Location
+### Current Location:
 
 Lier Belgium
 
-#### Languages
+#### Languages:
 
-English, Spanish, Nerderland Norwegean
+1. English
 
-##### My Hubby
+2. Spanish
 
-long tennis
+3. Nerderlands
 
-socer game
+4. Norwegean
 
-baseball
+##### My Hubbies:
 
-###### Contact
+- Long tennis
+
+- Footballl
+
+- Baseball
+
+###### Contacto
 
 Harleydane@harkyourfuture.be
 
