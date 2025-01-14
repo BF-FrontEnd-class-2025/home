@@ -1,8 +1,8 @@
-# Hi I am Manloi 😃👋
+# Hi I am Manloi 😃👋git 
 Nice to meet you! My name is Manloi. I just started learning front-end
 development.
 
-![manloi](./img/Manloi_pic.jpg)
+![manloi](./img/manloi_pic.jpg)
 
 ## Hobbies
 
