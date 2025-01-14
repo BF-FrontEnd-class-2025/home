@@ -18,6 +18,7 @@ This is my first project, and I am excited to learn and grow in the field.
 - _English_
 - _Dutch_
 - _Arabic_
+- _Turkish_
 
 ---
 
