@@ -4,9 +4,9 @@
 
 ## My name is Arsan and that's my bio
 
-> I'm 28 and, I speak Russian, French and English 
+> I'm 28 and, I speak Russian, French and English
 
-### My hobbies are:
+### My hobbies are
 
 - math
 - books
@@ -16,6 +16,7 @@
 ```py
 print("I know some basics of Python, SQL and Bash scripting")
 ```
+
 My IT background is:
 
 1. **AWS** Solution Architect certification

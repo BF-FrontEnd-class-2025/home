@@ -1,4 +1,4 @@
-# HI, I'm Anton!
+# HI, I'm Anton
 
 ## I'm FrontEnd developer
 

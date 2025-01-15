@@ -4,11 +4,13 @@
 
 I was born on February 12, 2004. Before moving to Belgium in 2022, I had started studying programming and developed a strong interest in it. After relocating, I focused on adapting to my new environment by actively learning both French and English.
 
-Today is my first day at ***Hack your future***. And this is my ***first*** project) 
+Today is my first day at ***Hack your future***. And this is my ***first*** project)
 
 ---
-## My hobbies 
-- Music 
+
+## My hobbies
+
+- Music
 - Gaming
 - Cycling
 - Table tennis
@@ -17,7 +19,8 @@ Today is my first day at ***Hack your future***. And this is my ***first*** proj
 
 ---
 
-## Languages 
+## Languages
+
 - Ukrainian
 - Romanian
 - Russian

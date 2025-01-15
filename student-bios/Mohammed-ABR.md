@@ -58,5 +58,5 @@ This is my first project, and I am excited to learn and grow in the field.
 
 ## Contact
 
-- _Email:_ abrashmohammed151@gmail.com
+- _Email:_ <abrashmohammed151@gmail.com>
 - _GitHub:_ [github.com/Mohammed-ABR](https://github.com/Mohammed-ABR)
