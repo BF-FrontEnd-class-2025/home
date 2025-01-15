@@ -1,13 +1,15 @@
 # Mohammed Alamgir Bio
+
 ![My Photo](./img/alamgir02.jpg)
 
 ## About Me
+
 My name is Mohammed Alamgir. Call me Alamgir.
 I worked as a PC Technician for 2 years in CPAS-Bruxelles.
 
 ## My Hobbies
 
-Reading, Listening music. 
+Reading, Listening music.
 
 ## Language known
 
